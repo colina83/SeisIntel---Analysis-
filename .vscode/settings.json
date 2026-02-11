@@ -2,8 +2,11 @@
     "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
-    "python.formatting.provider": "black",
     "python.analysis.typeCheckingMode": "basic",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
     "jupyter.notebookFileRoot": "${workspaceFolder}",
     "jupyter.widgetScriptSources": [
         "jsdelivr.com",
