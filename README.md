@@ -73,6 +73,11 @@ A Python-based data science project for seismic intelligence analysis using Jupy
    !pip install -r https://raw.githubusercontent.com/colina83/SeisIntel---Analysis-/main/requirements.txt
    ```
 
+## 📖 Documentation
+
+- **[Jupyter Quick Start Guide](docs/JUPYTER_GUIDE.md)** - Complete guide to using Jupyter notebooks
+- **[Getting Started Notebook](notebooks/getting_started.ipynb)** - Interactive tutorial
+
 ## 📦 Included Libraries
 
 ### Core Data Science
